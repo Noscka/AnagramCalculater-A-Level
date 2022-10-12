@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramCalculater-A-Level", "AnagramCalculater-A-Level\AnagramCalculater-A-Level.csproj", "{580AB755-7935-4654-8384-305183C6FA32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580AB755-7935-4654-8384-305183C6FA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580AB755-7935-4654-8384-305183C6FA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580AB755-7935-4654-8384-305183C6FA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580AB755-7935-4654-8384-305183C6FA32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F9232F2-B12F-4DBA-ABB5-8455D1EF4AD3}
+	EndGlobalSection
+EndGlobal
