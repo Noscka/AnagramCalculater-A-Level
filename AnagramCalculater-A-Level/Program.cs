@@ -50,9 +50,9 @@ namespace AnagramCalculater_A_Level
 
 				/* different message for different messages */
 				if (Anograms)
-					Console.WriteLine($"`{GetWord}` is an anogram of `{MainWord}`");
+					Console.WriteLine($"`{GetWord}` is an anagram of `{MainWord}`");
 				else
-					Console.WriteLine($"`{GetWord}` is not an anogram of `{MainWord}`");
+					Console.WriteLine($"`{GetWord}` is not an anagram of `{MainWord}`");
 
 				/* Nicely exiting the program */
 				Console.Write("Exit Program? [y/n]: ");
